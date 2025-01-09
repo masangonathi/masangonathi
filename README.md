@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning **React.js** and additional Frontend Development Technologies
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me masangonim@gmail.com Email  
+- 📫 How to reach me masangonim@gmail.com 
   
   
 
